@@ -5,6 +5,7 @@ temp
 nbproject
 vendor/*
 app/env.php
+public/bower
 
 #################
 ## Eclipse

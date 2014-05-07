@@ -1,1 +1,0 @@
-<?php require_once 'swift'.DIRECTORY_SEPARATOR.'bootstrap.php';
