@@ -1,0 +1,1 @@
+<?php include PATH_SWIFT.'routes.php';
