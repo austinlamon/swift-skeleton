@@ -3,9 +3,9 @@
 #################
 temp
 nbproject
-vendor/*
 app/env.php
-public/bower
+public/bower/*/src
+public/bower/*/grunt
 
 #################
 ## Eclipse
